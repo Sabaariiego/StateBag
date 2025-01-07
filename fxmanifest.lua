@@ -4,4 +4,4 @@ games { 'rdr3', 'gta5' }
 
 client_scripts '*.lua'
 
-server_script '*.lua'
+server_scripts '*.lua'
